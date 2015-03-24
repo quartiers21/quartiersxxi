@@ -9,7 +9,7 @@
 	<nom>Quartiers XXI : thème graphique</nom>
 
 	<auteur lien="https://github.com/QuartiersXXI">Les contributeurices de Quartiers XXI</auteur>
-	<copyright>2014</copyright>
+	<copyright>2015</copyright>
 	<licence>GPL v3</licence>
 	
 	<necessite nom="quartiersxxi_squelettes" compatibilite="[1.0.0;]" />
